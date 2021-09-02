@@ -1,0 +1,14 @@
+1. Saat debug dengan kedua field kosong maka akan diredirect ke class looper dan pada "cause" dikatakan terjadi NumberFormatException@4841 -> empty String
+hal tersebut karena field tidak boleh kosong
+
+-Solusi : menggunakan try catch pada input field, sehingga dapat menampilkan ouput lain jika terjadi kesalahan
+
+2. Sama dengan kasus yang pertama, karena field 2 masih kosong NumberFormatException@4860 -> empty String
+
+-Solusi : menggunakan try catch pada input field, sehingga dapat menampilkan ouput lain jika terjadi kesalahan
+
+3. Hal ini akah menghasilkan hasil Infinity karena dibagi dengan 0,
+
+-Solusi : menggunakan try catch pada input field, sehingga dapat memberi warning jika dibagi 0
+	atau dapat dibiarkan karena tidak error dan menghasilkan suatu output yaitu "Infinity"
+
