@@ -1,0 +1,10 @@
+Saat pengujian jika item diklik maka akan ada bacaan "pernah diklik",
+tetapi jika diklik terus menerus tulisan pada item tersebut terus bertambah.
+
+Saat diklik terdapat popup "'namaItem' dipilih", sehingga tulisan "pernah diklik" termasuk kedalam nama item.
+
+Saat penambahan item ada kata "'namaItem' + telah ditambahkan",
+sehingga telah ditambahkan masuk ke dalam popup nantinya.
+
+Jadi aplikasi bisa diperbaiki dengan memindahkan  "telah ditambahkan sebagai popup",
+dan cek apakah item pernah diklik (bool) sehingga tidak akan terus bertambah, atau "pernah diklik" juga dipindah menjadi popup.
