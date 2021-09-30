@@ -1,4 +1,4 @@
 Kesimpulan:
 1. Animasi property dibuat dengan memanfaatkan customisasi atribut pada property(seperti: shape,color, dll) sebagai anaimasinya,
-2. animasi Drawable memanfaatkan frame dan gambar sebagai animasinya,
+2. animasi Drawable memanfaatkan frame dan gambar sebagai animasinya, 
 3. sedangkan animasi physics menerapkan pendekatan fisika sebagai animasinya dan lebih natural.
