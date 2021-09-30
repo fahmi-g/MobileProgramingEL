@@ -1,0 +1,6 @@
+Kesimpulan:
+1. Intent dapat digunakan untuk pergantian activiti dan/atau melakukan passing data antar activity
+2. Fragment dapat membuat tampilan yang reusable
+3. Fragment dapat dilakukan secara layout atau programmatic
+layout = manual
+programmatic = menyiapkan semacam frame dalam activity java untuk menempatkan fragment tersebut

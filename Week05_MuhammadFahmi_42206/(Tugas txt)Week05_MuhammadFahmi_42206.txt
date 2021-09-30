@@ -1,0 +1,3 @@
+Kesimpulan:
+Pada modul ini penggabungan Class Paint, Gesture, Touch dan koordinat, menjadi hal utama dalam pembuatan
+aplikasi menggambar sebagai mekaniknya
